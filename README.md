@@ -1,1 +1,0 @@
-# MP1-CNN_AnimalImageClassificationDataSet
